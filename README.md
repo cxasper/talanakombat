@@ -29,6 +29,12 @@ docker run talana
 
 4. Usar con docker o python
 
+Docker Hub:
+```
+docker pull cxasper/talanakombat:talana
+docker run -it cxasper/talanakombat:talana
+```
+
 Docker:
 ```
 docker run -it talana
