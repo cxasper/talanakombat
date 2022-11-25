@@ -27,10 +27,18 @@ docker build --tag talana .
 docker run talana
 ```
 
-4. Usar
+4. Usar con docker o python
+
+Docker:
 ```
-docker run talana
+docker run -it talana
 ```
+
+python:
+```
+python kombat.py
+```
+
 esto ejecutara el script y solicitar un json.
 
 ```
